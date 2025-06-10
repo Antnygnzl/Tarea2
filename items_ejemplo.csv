@@ -1,6 +1,0 @@
-tipo,enunciado,opciones,nivel_bloom,tiempo,correcta
-opcion_multiple,¿Cuál es la capital de Francia?,"París;Londres;Madrid;Berlín",recordar,30,París
-opcion_multiple,¿Cuál es el resultado de 5 * 3?,"8;15;10;20",aplicar,25,15
-verdadero_falso,El agua hierve a 100°C a nivel del mar.,true,comprender,20,true
-verdadero_falso,La raíz cuadrada de 64 es 6.,false,comprender,20,false
-opcion_multiple,¿Qué lenguaje se ejecuta en la JVM?,"Python;C++;Java;JavaScript",entender,30,Java

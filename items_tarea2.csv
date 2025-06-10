@@ -1,0 +1,11 @@
+tipo,enunciado,opciones,nivel,tiempo,respuesta
+opcion_multiple,¿Cuál es la capital de Francia?,París;Londres;Roma;Madrid,Recordar,30,París
+verdadero_falso,El Sol es una estrella.,,Comprender,15,Verdadero
+opcion_multiple,¿Cuál es el elemento químico con el símbolo O?,Oxígeno;Oro;Plata;Hierro,Recordar,30,Oxígeno
+opcion_multiple,¿Qué planeta es conocido como el planeta rojo?,Marte;Júpiter;Saturno;Venus,Comprender,30,Marte
+opcion_multiple,¿Cuál es el resultado de 9 x 7?,63;56;72;49,Aplicar,30,63
+opcion_multiple,¿Quién escribió 'Cien años de soledad'?,Gabriel García Márquez;Pablo Neruda;Mario Vargas Llosa;Isabel Allende,Analizar,30,Gabriel García Márquez
+verdadero_falso,La muralla china es visible desde el espacio.,,Evaluar,20,Falso
+verdadero_falso,El agua hierve a 100 grados Celsius al nivel del mar.,,Recordar,15,Verdadero
+verdadero_falso,Los humanos tienen tres pulmones.,,Comprender,15,Falso
+verdadero_falso,El ajedrez es considerado un deporte por el Comité Olímpico Internacional.,,Analizar,20,Verdadero
